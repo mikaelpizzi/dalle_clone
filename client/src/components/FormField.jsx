@@ -1,7 +1,7 @@
 import React from "react";
 
 const FormField = () => {
-  return <div></div>;
+  return <div>Form field</div>;
 };
 
 export default FormField;
